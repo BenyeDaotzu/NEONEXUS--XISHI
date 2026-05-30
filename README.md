@@ -1,15 +1,16 @@
-<img width="1661" height="1067" alt="图片" src="https://github.com/user-attachments/assets/ba59c8af-49ce-4f8e-8a26-e75fdd57945d" />
 # 📡 息时(Xishi) // 赛博朋克高密个人情报指挥中心
 
 > **[ 🔓 CURRENT ACCESS STATUS: BETA_STAGE_LOCK ]**
 > 
 > "受够了平庸的互联网噪音？欢迎接入超级个体的认知操作系统。"
 
----
+
+<img width="1661" height="1067" alt="30ce958ddec0f4dc" src="https://github.com/user-attachments/assets/dd28d3c8-e935-44fa-9cf4-6567f283844d" />
+
 
 ## 👁️ 什么是息时终端（Xishi）？
 
-**息时终端（Xishi）** 是由 **Evolith 意识矩阵** 提供底层算力支持、专为**超级个体、独立交易员以及 AI 极客**锻造的「非对称情报清算主脑」。
+**息时终端（Xishi）** 是由 **Evolith ** 提供底层算力支持、专为**超级个体、独立交易员以及 AI 极客**锻造的「非对称情报清算主脑」。
 
 我们彻底抛弃了传统财经App的散户思维和信息噪音。息时终端是一个拥有刺眼**赛博朋克像素美学（Cyber-Eco）**的个人全息情报工作台。它将全球高频科技暗流（AI/机器人）、宏观政策异动，与二级市场大宗交易、个股筹码雷达物理并机，帮助你在瞬息之间，捕获并裁决属于超级个体的 **Alpha 预期差**。
 
