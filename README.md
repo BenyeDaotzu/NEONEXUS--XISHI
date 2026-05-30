@@ -73,7 +73,7 @@
 
 ## 🔓 如何接入主脑？(Beta Access)
 
-为了保证首批测试用户的算力纯净以及 API 钱包安全，息时终端目前处于**严格的饥饿内测阶段**。
+为了保证首批测试用户的算力纯净以及 API 钱包安全，息时终端目前处于**严格的内测阶段**。
 
 系统入口已全面封锁，注册/首次登录必须注入带军用密钥感的**主脑接入凭证 (Beta Key)**：
 格式示例：`XISHI-XXXX-XXXX`
@@ -81,3 +81,14 @@
 我们将不定期在技术社群、即刻及 Github Release 中物理投放限量内测码。每一个码在数据库事务（Transaction）中均采用 `FOR UPDATE` 排他锁死锁，一经激活，永久绑定。
 
 ---
+第一期的内测码:
+XISHI-E159-7B9B
+XISHI-589D-F243
+XISHI-1C3D-A938
+XISHI-9A8C-1148
+XISHI-D64C-7ADC
+XISHI-E281-2368
+XISHI-A063-08B1
+XISHI-F14C-F6D1
+XISHI-6E7E-5075
+XISHI-62AD-8E77
