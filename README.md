@@ -1,3 +1,4 @@
+<img width="1661" height="1067" alt="图片" src="https://github.com/user-attachments/assets/ba59c8af-49ce-4f8e-8a26-e75fdd57945d" />
 # 📡 息时(Xishi) // 赛博朋克高密个人情报指挥中心
 
 > **[ 🔓 CURRENT ACCESS STATUS: BETA_STAGE_LOCK ]**
